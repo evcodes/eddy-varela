@@ -1,0 +1,4 @@
+[build]
+base = "eddy-varela/"
+publish = "eddy-varela/build/"
+command = "yarn build"
